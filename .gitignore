@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Snapshots
+shopping-cart-demo-1.jpg
+shopping-cart-demo-2.jpg
+shopping-cart-demo-3.jpg
